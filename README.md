@@ -22,3 +22,5 @@
 - 단, 스터디 도중 **말없이 사라진 것이 적발되면 팀원 모두에게 '아이스 아메리카노 선물하기'**
 - 시간은 유동적으로 변경할 수 있지만 **1주일전에 공지하는것을 원칙으로 한다.**
 
+### References
+<img src="https://user-images.githubusercontent.com/33277588/86558471-5e841180-bf94-11ea-93d5-5f725ee4b465.png" width="300" height="300">
