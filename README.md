@@ -23,4 +23,4 @@
 - 시간은 유동적으로 변경할 수 있지만 **1주일전에 공지하는것을 원칙으로 한다.**
 
 ### References
-<img src="https://user-images.githubusercontent.com/33277588/86558471-5e841180-bf94-11ea-93d5-5f725ee4b465.png" width="300" height="300">
+<img src="https://user-images.githubusercontent.com/33277588/86558471-5e841180-bf94-11ea-93d5-5f725ee4b465.png" width="150" height="150">
