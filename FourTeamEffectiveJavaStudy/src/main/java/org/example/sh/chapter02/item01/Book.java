@@ -25,4 +25,22 @@ public class Book {
     public static Book createBookSetAuthor(String author) {
         return new Book("", author);
     }
+
+    // 매번 새로운 객체를 생성하지 않고, 미리 생성된 객체를 공유할 수도 있다.
+    private static Book defaultBook = new Book("None", "None");
+    public static Book createDefaultBook() {
+        if ( defaultBook == null ) {
+            defaultBook = new Book("None", "None");
+        }
+        return defaultBook;
+    }
+
+
+    @Override
+    public String toString() {
+        return "Book{" +
+                "bookName='" + bookName + '\'' +
+                ", author='" + author + '\'' +
+                '}';
+    }
 }
