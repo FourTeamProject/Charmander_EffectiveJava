@@ -1,7 +1,7 @@
 package org.example.sh.chapter02.item01;
 
 public interface SmartPhone {
-    void turnOn();
+    String turnOn();
 
-    void turnOff();
+    String turnOff();
 }
