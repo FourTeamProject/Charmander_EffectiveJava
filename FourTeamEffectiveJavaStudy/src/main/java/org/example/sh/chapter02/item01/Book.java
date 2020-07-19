@@ -35,6 +35,13 @@ public class Book {
         return defaultBook;
     }
 
+    public String getBookName() {
+        return bookName;
+    }
+
+    public String getAuthor() {
+        return author;
+    }
 
     @Override
     public String toString() {
