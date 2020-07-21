@@ -1,0 +1,11 @@
+
+@
+java:S1659"%Declare "lineNum" on a separate line.(¹ª×Ûüÿÿÿÿ
+o
+java:S2293X"YReplace the type specification in this constructor call with the diamond operator ("<>").(å§ÚŠ
+?
+java:S1659"$Declare "prefix" on a separate line.(¹ª×Ûüÿÿÿÿ
+@
+java:S2157"%Add a "clone()" method to this class.(ÿÍç¨úÿÿÿÿ
+S	java:S106["9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ
+P	java:S125<"<This block of commented-out lines of code should be removed.(»Ôø}
