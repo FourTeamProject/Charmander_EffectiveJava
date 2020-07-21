@@ -1,0 +1,14 @@
+
+Q	java:S125"<This block of commented-out lines of code should be removed.(È€ñœ
+l
+java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(£â¸ä
+S	java:S106."9Replace this use of System.out or System.err by a logger.(ú³Üéøÿÿÿÿ
+q
+java:S2159/"VRemove this call to "equals"; comparisons between unrelated types always return false.(šóĞ¿úÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(÷¾Ş¿
+S	java:S106("9Replace this use of System.out or System.err by a logger.(ÈÎëØşÿÿÿÿ
+P	java:S125!"<This block of commented-out lines of code should be removed.(½«–	
+q
+java:S2159("VRemove this call to "equals"; comparisons between unrelated types always return false.(ÈÎëØşÿÿÿÿ
+f
+java:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(‹Èª

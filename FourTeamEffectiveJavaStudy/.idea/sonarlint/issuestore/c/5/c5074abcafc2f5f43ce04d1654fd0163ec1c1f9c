@@ -1,0 +1,11 @@
+
+N	java:S106."9Replace this use of System.out or System.err by a logger.(¡ı–ß
+S	java:S1062"9Replace this use of System.out or System.err by a logger.(ü¨óÀûÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(‘‹„‘
+;
+java:S1181""%Catch Exception instead of Throwable.(í¢ò¸
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ÛÚ£Î
+m
+java:S3776
+"RRefactor this method to reduce its Cognitive Complexity from 27 to the 15 allowed.(ÙØ¤Şıÿÿÿÿ
+N	java:S106!"9Replace this use of System.out or System.err by a logger.(®ŞŞ

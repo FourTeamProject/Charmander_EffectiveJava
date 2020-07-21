@@ -1,0 +1,6 @@
+
+5
+java:S2189""Add an end condition to this loop.(¤èÄ7
+Q	java:S106"9Replace this use of System.out or System.err by a logger.(†—‚Àÿÿÿÿÿ
+O	java:S125"<This block of commented-out lines of code should be removed.(‘‰ž
+T	java:S125"<This block of commented-out lines of code should be removed.(’•îæýÿÿÿÿ
