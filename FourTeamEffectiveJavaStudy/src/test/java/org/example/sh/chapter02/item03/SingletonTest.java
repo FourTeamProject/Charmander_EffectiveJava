@@ -52,4 +52,20 @@ public class SingletonTest {
         assertThat(greeting, is(equalTo(expected)));
         assertThat(greeting, is(equalTo(anotherInstance.getHello())));
     }
+
+    @Test
+    public void lazyHolderSingletonTest() {
+        // given
+        LazyHolderSingleton singleton = LazyHolderSingleton.getInstance();
+        LazyHolderSingleton anotherInstance = LazyHolderSingleton.getInstance();
+        String expected = "Hello LazyHolderSingleton!";
+
+        // when
+        String greeting = singleton.getHello();
+
+        // then
+        assertThat(singleton, is(sameInstance(anotherInstance)));
+        assertThat(greeting, is(equalTo(expected)));
+        assertThat(greeting, is(equalTo(anotherInstance.getHello())));
+    }
 }
