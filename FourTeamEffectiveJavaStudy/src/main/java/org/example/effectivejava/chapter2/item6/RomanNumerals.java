@@ -19,8 +19,8 @@ public class RomanNumerals {
     }
 
     public static void main(String[] args) {
-        int numSets = Integer.parseInt(args[0]);
-        int numReps = Integer.parseInt(args[1]);
+        int numSets = 10;//Integer.parseInt(args[0]);
+        int numReps = 10;//Integer.parseInt(args[1]);
         boolean b = false;
 
         for (int i = 0; i < numSets; i++) {
