@@ -1,15 +1,16 @@
 
-F
-java:S1481"-Remove this unused "cocaCola" local variable.(‹šÇôúÿÿÿÿ
+=
+java:S1068"'Remove this unused "fat" private field.(å®­»
 H
-java:S1068"/Remove this unused "servingSize" private field.(µÁ€Ìıÿÿÿÿ
-E
-java:S1068",Remove this unused "servings" private field.(ò’©æøÿÿÿÿ
+java:S14814"-Remove this unused "cocaCola" local variable.(‹šÇôúÿÿÿÿ
+B
+java:S1068",Remove this unused "calories" private field.(»¤µâ
 @
-java:S1068",Remove this unused "calories" private field.(»¤µâ
-;
-java:S1068"'Remove this unused "fat" private field.(å®­»
->
-java:S1068"*Remove this unused "sodium" private field.(áëµ
-D
-java:S1068"0Remove this unused "carbohydrate" private field.(Ì³á 
+java:S1068	"*Remove this unused "sodium" private field.(áëµ
+J
+java:S1068"/Remove this unused "servingSize" private field.(µÁ€Ìıÿÿÿÿ
+F
+java:S1068
+"0Remove this unused "carbohydrate" private field.(Ì³á 
+G
+java:S1068",Remove this unused "servings" private field.(ò’©æøÿÿÿÿ
