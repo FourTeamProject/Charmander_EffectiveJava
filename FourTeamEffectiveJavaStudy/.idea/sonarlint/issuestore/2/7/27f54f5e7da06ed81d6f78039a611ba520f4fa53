@@ -1,0 +1,14 @@
+
+J
+java:S1481,"(Remove this unused "foo" local variable.(Ëãäÿÿÿÿÿ8°¯—»¶.
+T
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓşÿÿÿÿ8¬“Ù»¶.
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(°÷ŸÏ8şµ¬»¶.
+X	java:S125?"<This block of commented-out lines of code should be removed.(Ğ“Ô8¿ÿ¦¼¶.
+U	java:S1065"9Replace this use of System.out or System.err by a logger.(¨¾’„8şµ¬»¶.
+M
+java:S1481:"+Remove this unused "colors" local variable.(û­Ûÿÿÿÿÿ8ºÇá»¶.
+J
+java:S14818"-Remove this unused "childFoo" local variable.(ÈÑİ—8«°·»¶.
+E
+java:S1481<"(Remove this unused "red" local variable.(®À‡Ÿ8Á³æ»¶.

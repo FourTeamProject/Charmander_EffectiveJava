@@ -60,5 +60,9 @@ public class Foo {
         EnumSet<Color> red = EnumSet.of(Color.RED, Color.WHITE);
 
 
+//        private BeanUtils() {
+//            throw new AssertionError();
+//        }
+
     }
 }
