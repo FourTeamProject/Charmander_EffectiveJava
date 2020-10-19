@@ -1,6 +1,11 @@
 package org.example.sh.chapter02.item03;
 
 import org.junit.Test;
+
+import java.util.ArrayList;
+import java.util.Calendar;
+import java.util.HashMap;
+
 import static org.hamcrest.CoreMatchers.*;
 import static org.hamcrest.MatcherAssert.*;
 
@@ -67,5 +72,10 @@ public class SingletonTest {
         assertThat(singleton, is(sameInstance(anotherInstance)));
         assertThat(greeting, is(equalTo(expected)));
         assertThat(greeting, is(equalTo(anotherInstance.getHello())));
+    }
+
+    @Test
+    public void toStringTest () {
+        System.out.println(LazyHolderSingleton.getInstance());
     }
 }

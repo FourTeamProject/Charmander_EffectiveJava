@@ -14,4 +14,9 @@ public class LazyHolderSingleton {
     public String getHello() {
         return "Hello LazyHolderSingleton!";
     }
+
+    @Override
+    public String toString() {
+        return "LazyHolderSingleton{}";
+    }
 }
